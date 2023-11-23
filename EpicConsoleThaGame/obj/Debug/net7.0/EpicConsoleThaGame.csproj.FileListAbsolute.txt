@@ -1,0 +1,14 @@
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\bin\Debug\net7.0\EpicConsoleThaGame.exe
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\bin\Debug\net7.0\EpicConsoleThaGame.deps.json
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\bin\Debug\net7.0\EpicConsoleThaGame.runtimeconfig.json
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\bin\Debug\net7.0\EpicConsoleThaGame.dll
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\bin\Debug\net7.0\EpicConsoleThaGame.pdb
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\obj\Debug\net7.0\EpicConsoleThaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\obj\Debug\net7.0\EpicConsoleThaGame.AssemblyInfoInputs.cache
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\obj\Debug\net7.0\EpicConsoleThaGame.AssemblyInfo.cs
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\obj\Debug\net7.0\EpicConsoleThaGame.csproj.CoreCompileInputs.cache
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\obj\Debug\net7.0\EpicConsoleThaGame.dll
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\obj\Debug\net7.0\refint\EpicConsoleThaGame.dll
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\obj\Debug\net7.0\EpicConsoleThaGame.pdb
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\obj\Debug\net7.0\EpicConsoleThaGame.genruntimeconfig.cache
+C:\Users\jj\C#\EpicConsoleThaGame\EpicConsoleThaGame\obj\Debug\net7.0\ref\EpicConsoleThaGame.dll
