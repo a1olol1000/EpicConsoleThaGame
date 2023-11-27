@@ -1,6 +1,7 @@
 ﻿namespace EpicConsoleThaGame;
 
-public class Player
+public class Player: Action_counter
 {
     private Inventory _inventory = new();
+    
 }

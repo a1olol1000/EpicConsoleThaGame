@@ -1,6 +1,6 @@
 ﻿namespace EpicConsoleThaGame;
 
-public class Enemy
+public class Enemy: Action_counter
 {
     private int _maxHp=100000;
     private int _hp = 100;
