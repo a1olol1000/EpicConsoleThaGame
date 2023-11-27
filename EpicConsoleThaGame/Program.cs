@@ -5,7 +5,7 @@ bool gameloop = true;
 int frameRateCheck = 20;
 int frameRate = 1000/frameRateCheck;
 int frame = 0;
-while(true) {  if (Console.KeyAvailable) { if (Console.ReadKey().Key == ConsoleKey.Escape) { do { Console.WriteLine("Press enter to resume"); } while (Console.ReadKey().Key != ConsoleKey.Enter); } } Thread.Sleep(100);}
+
 while (gameloop) 
 {
     Console.Clear();
@@ -14,9 +14,9 @@ while (gameloop)
     {
         frame= 0;
     }
-    if (true)
+    if (Console.ReadKey().Key == ConsoleKey.A)
     {
-        
+        Console.WriteLine("dfijbvdfjhvbqeifobverhbdfihbidfvbiqefuvbiuqefvboiuqwhbpiuwedhvpiuqehvipuqehvpiweuhvpieuqhvpieruqhpeqofivh");
     }
     Console.WriteLine("blabla");
     Console.WriteLine("blabla");
