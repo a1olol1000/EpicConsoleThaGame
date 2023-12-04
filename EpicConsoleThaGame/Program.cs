@@ -7,6 +7,10 @@ bool gameloop = true;
 int frameRateCheck = 20;
 int frameRate = 1000/frameRateCheck;
 int frame = 0;
+Food food= new();
+food.foods =new();
+food.foods.Add("apple",3);
+food.foodfeed = food.foods["apple"];
 while (gameloop) 
 {
     Console.Clear();

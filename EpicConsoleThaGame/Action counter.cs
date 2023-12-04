@@ -2,6 +2,7 @@
 
 public class Action_counter
 {
+    
     private int _doAction;
     public int doActionNumber
     {
